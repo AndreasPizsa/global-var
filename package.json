@@ -27,5 +27,13 @@
     "mocha-lcov-reporter": "*",
     "should": "*"
   },
-  "keywords": []
+  "keywords": [
+    "window",
+    "global",
+    "setTimeout",
+    "setInterval"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
 }
