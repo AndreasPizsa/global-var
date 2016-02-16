@@ -7,7 +7,7 @@
 
 'use strict';
 
-const getGlobal = Function('return this');
+var getGlobal = Function('return this');
 
 module.exports = getGlobal();
 module.exports.getGlobal = getGlobal;
