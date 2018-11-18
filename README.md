@@ -1,5 +1,7 @@
 # global-var ![Travis](https://img.shields.io/travis/AndreasPizsa/global-var.svg?style=flat-square) ![Coverage Status](https://img.shields.io/coveralls/AndreasPizsa/global-var.svg?style=flat-square) ![Downloads](https://img.shields.io/npm/dm/global-var.svg?style=flat-square)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/global-var.svg)](https://greenkeeper.io/)
+
 > Get the correct 'global' variable for the current runtime environment (`window` in browser, `global` in node, etc)
 
 ## Install
