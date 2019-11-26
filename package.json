@@ -21,7 +21,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "coveralls": "*",
+    "coveralls": ">=3.0.9",
     "istanbul": "*",
     "mocha": "*",
     "mocha-lcov-reporter": "*",
